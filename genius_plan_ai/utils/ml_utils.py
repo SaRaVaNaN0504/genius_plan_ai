@@ -1,4 +1,3 @@
-# Genius_plan_ai/utils/ml_utils.py
 import joblib
 import pandas as pd
 from genius_plan_ai.config import ML_MODEL_PATH
