@@ -1,4 +1,3 @@
-# Genius_plan_ai/utils/gamification_manager.py
 import streamlit as st
 import pandas as pd
 from datetime import datetime
