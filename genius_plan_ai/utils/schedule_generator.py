@@ -1,4 +1,3 @@
-# Genius_plan_ai/utils/schedule_generator.py
 import pandas as pd
 from datetime import datetime, timedelta
 import random
