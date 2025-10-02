@@ -43,7 +43,7 @@ Follow these steps to set up and run the app locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/SaRaVaNaN0504/<repo-name>.git
 cd <repo-name>
 ```
 
