@@ -1,4 +1,3 @@
-# Genius_plan_ai/components/sidebar.py
 import streamlit as st
 from datetime import datetime, date, time, timedelta
 from genius_plan_ai.utils.css_injector import inject_custom_css
