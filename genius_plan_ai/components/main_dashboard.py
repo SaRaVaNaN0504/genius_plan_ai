@@ -1,4 +1,3 @@
-# Genius_plan_ai/components/main_dashboard.py
 import streamlit as st
 import pandas as pd
 from genius_plan_ai.utils.gamification_manager import log_completion_event, update_gamification, initialize_gamification
