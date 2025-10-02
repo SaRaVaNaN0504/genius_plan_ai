@@ -1,4 +1,4 @@
-# Genius_plan_ai/components/export_retrain.py
+
 import streamlit as st
 import pandas as pd
 import os
