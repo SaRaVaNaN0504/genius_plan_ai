@@ -3,6 +3,9 @@
 An intelligent adaptive study planner built with **Streamlit**, designed to help students prepare more effectively by dynamically adjusting their schedules. The app leverages **machine learning (ML)** models to suggest study patterns, handle “exam tomorrow” scenarios, and continuously improve with user feedback.
 
 ---
+## Link 
+
+---
 
 ## ✨ Features
 
