@@ -3,9 +3,22 @@
 An intelligent adaptive study planner built with **Streamlit**, designed to help students prepare more effectively by dynamically adjusting their schedules. The app leverages **machine learning (ML)** models to suggest study patterns, handle “exam tomorrow” scenarios, and continuously improve with user feedback.
 
 ---
-## Link 
+## Link - https://geniusplanai-saravanan.streamlit.app/
 
 ---
+## Screen Shots 
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/15584807-35b9-4099-9deb-c50930e67656" />
+
+---
+
+##### After Generation
+
+<img width="1917" height="878" alt="image" src="https://github.com/user-attachments/assets/43faadb4-1f05-4db7-ab0c-b55fe945beae" />
+
+---
+
+
 ## ✨ Features
 
 * 📅 **Adaptive Scheduler** – Generates personalized study plans.
