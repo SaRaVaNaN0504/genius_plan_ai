@@ -6,7 +6,6 @@ An intelligent adaptive study planner built with **Streamlit**, designed to help
 ## Link 
 
 ---
-
 ## ✨ Features
 
 * 📅 **Adaptive Scheduler** – Generates personalized study plans.
